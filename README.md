@@ -8,8 +8,7 @@
 
 ## 演示视频
 
-> 视频演示：待补充  
-> 作品集主页：待补充
+> 视频演示：[观看演示视频](https://www.bilibili.com/video/BV1ygYW6bEC6)
 
 ## 项目内容
 
